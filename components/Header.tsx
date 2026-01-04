@@ -23,7 +23,7 @@ export function Header() {
           {!isHome ? (
             <span>
               <Image
-                src={"/30_logo.png"}
+                src={"/logo.png"}
                 height={48}
                 width={48}
                 alt="UNIT30 Records Logo"
@@ -33,7 +33,7 @@ export function Header() {
           ) : (
             <span>
               <Image
-                src={"/30_logo.png"}
+                src={"/logo.png"}
                 height={48}
                 width={48}
                 alt="UNIT30 Records Logo"

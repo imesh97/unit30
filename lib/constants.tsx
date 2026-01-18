@@ -82,6 +82,34 @@ export const ARTISTS: Artist[] = [
 
 export const RELEASES: Release[] = [
   {
+    id: "for-the-gram",
+    title: "for the gram",
+    img: "/releases/for-the-gram.png",
+    artist: "hesmi",
+    type: "EP",
+    year: 2026,
+    socialLinks: {
+      spotify:
+        "https://open.spotify.com/album/7bPbQzOQkG1iOsNAj2ZAUw?si=jBfNzrwsRaqjfcsbyRfa-Q",
+      appleMusic:
+        "https://music.apple.com/us/album/for-the-gram-single/1865455342",
+    },
+  },
+  {
+    id: "for-all-the-gyals",
+    title: "For All The Gyals",
+    img: "/releases/for-all-the-gyals.png",
+    artist: "hesmi",
+    type: "EP",
+    year: 2026,
+    socialLinks: {
+      spotify:
+        "https://open.spotify.com/album/7bPbQzOQkG1iOsNAj2ZAUw?si=-rSujQz8Sx2NQO_9hX9VGg",
+      appleMusic:
+        "https://music.apple.com/us/album/for-the-gram-single/1865455342",
+    },
+  },
+  {
     id: "bron",
     title: "B R O N",
     img: "/releases/bron.png",
